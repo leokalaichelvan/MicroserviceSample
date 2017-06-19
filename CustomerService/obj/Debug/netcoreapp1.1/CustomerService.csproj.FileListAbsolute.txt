@@ -1,0 +1,16 @@
+D:\Development_Avecto\GTO\MicroserviceSample\MicroserviceSample\CustomerService\bin\Debug\netcoreapp1.1\CustomerService.deps.json
+D:\Development_Avecto\GTO\MicroserviceSample\MicroserviceSample\CustomerService\bin\Debug\netcoreapp1.1\CustomerService.runtimeconfig.json
+D:\Development_Avecto\GTO\MicroserviceSample\MicroserviceSample\CustomerService\bin\Debug\netcoreapp1.1\CustomerService.runtimeconfig.dev.json
+D:\Development_Avecto\GTO\MicroserviceSample\MicroserviceSample\CustomerService\bin\Debug\netcoreapp1.1\CustomerService.dll
+D:\Development_Avecto\GTO\MicroserviceSample\MicroserviceSample\CustomerService\bin\Debug\netcoreapp1.1\CustomerService.pdb
+D:\Development_Avecto\GTO\MicroserviceSample\MicroserviceSample\CustomerService\obj\Debug\netcoreapp1.1\CustomerService.AssemblyInfo.cs
+D:\Development_Avecto\GTO\MicroserviceSample\MicroserviceSample\CustomerService\obj\Debug\netcoreapp1.1\CustomerService.dll
+D:\Development_Avecto\GTO\MicroserviceSample\MicroserviceSample\CustomerService\obj\Debug\netcoreapp1.1\CustomerService.pdb
+C:\GTO\MicroserviceSample\MicroserviceSample\CustomerService\bin\Debug\netcoreapp1.1\CustomerService.deps.json
+C:\GTO\MicroserviceSample\MicroserviceSample\CustomerService\bin\Debug\netcoreapp1.1\CustomerService.runtimeconfig.json
+C:\GTO\MicroserviceSample\MicroserviceSample\CustomerService\bin\Debug\netcoreapp1.1\CustomerService.runtimeconfig.dev.json
+C:\GTO\MicroserviceSample\MicroserviceSample\CustomerService\bin\Debug\netcoreapp1.1\CustomerService.dll
+C:\GTO\MicroserviceSample\MicroserviceSample\CustomerService\bin\Debug\netcoreapp1.1\CustomerService.pdb
+C:\GTO\MicroserviceSample\MicroserviceSample\CustomerService\obj\Debug\netcoreapp1.1\CustomerService.AssemblyInfo.cs
+C:\GTO\MicroserviceSample\MicroserviceSample\CustomerService\obj\Debug\netcoreapp1.1\CustomerService.dll
+C:\GTO\MicroserviceSample\MicroserviceSample\CustomerService\obj\Debug\netcoreapp1.1\CustomerService.pdb

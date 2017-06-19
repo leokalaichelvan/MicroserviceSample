@@ -1,0 +1,11 @@
+eureka:
+  client:
+    shouldFetchRegistry: false
+  instance:
+    port: 5002
+    hostname: localhost
+mysql:
+  client:
+    database: GTOLab1
+    username: root
+    password: root

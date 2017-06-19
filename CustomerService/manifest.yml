@@ -1,0 +1,11 @@
+---
+applications:
+- name: customerservice
+  memory: 1G
+  host: gtocustomerservice
+  env:
+    ASPNETCORE_ENVIRONMENT: Production
+  services:
+   - customerConfig
+   - customereRegistry
+   - customerdb

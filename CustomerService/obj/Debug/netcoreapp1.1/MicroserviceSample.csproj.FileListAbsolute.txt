@@ -1,0 +1,9 @@
+D:\Development_Avecto\GTO\MicroserviceSample\MicroserviceSample\MicroserviceSample\bin\Debug\netcoreapp1.1\MicroserviceSample.deps.json
+D:\Development_Avecto\GTO\MicroserviceSample\MicroserviceSample\MicroserviceSample\bin\Debug\netcoreapp1.1\MicroserviceSample.runtimeconfig.json
+D:\Development_Avecto\GTO\MicroserviceSample\MicroserviceSample\MicroserviceSample\bin\Debug\netcoreapp1.1\MicroserviceSample.runtimeconfig.dev.json
+D:\Development_Avecto\GTO\MicroserviceSample\MicroserviceSample\MicroserviceSample\bin\Debug\netcoreapp1.1\MicroserviceSample.dll
+D:\Development_Avecto\GTO\MicroserviceSample\MicroserviceSample\MicroserviceSample\bin\Debug\netcoreapp1.1\MicroserviceSample.pdb
+D:\Development_Avecto\GTO\MicroserviceSample\MicroserviceSample\MicroserviceSample\obj\Debug\netcoreapp1.1\MicroserviceSample.csprojResolveAssemblyReference.cache
+D:\Development_Avecto\GTO\MicroserviceSample\MicroserviceSample\MicroserviceSample\obj\Debug\netcoreapp1.1\MicroserviceSample.AssemblyInfo.cs
+D:\Development_Avecto\GTO\MicroserviceSample\MicroserviceSample\MicroserviceSample\obj\Debug\netcoreapp1.1\MicroserviceSample.dll
+D:\Development_Avecto\GTO\MicroserviceSample\MicroserviceSample\MicroserviceSample\obj\Debug\netcoreapp1.1\MicroserviceSample.pdb
