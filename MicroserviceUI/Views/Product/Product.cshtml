@@ -1,0 +1,53 @@
+@model IEnumerable<MicroserviceUI.Models.Product>
+
+@{
+    ViewData["Title"] = "Product";
+}
+
+<h2>Product</h2>
+
+
+
+<div>
+    <h4>Products</h4>
+    <hr />
+    <table width="100%">
+        <thead>
+            <tr>
+                <th>
+                    Product ID
+                </th>
+                <th>
+                    Product Name
+                </th>
+                <th>
+                    Product Desc
+                </th>
+                <th>
+                    Product Price
+                </th>
+            </tr>
+        </thead>
+
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>
+                    @product.ID.ToString()
+                </td>
+                <td>
+                    @product.Name
+                </td>
+                <td>
+                    @product.Description
+                </td>
+                <td>
+                    @product.Price.ToString()
+                </td>
+            </tr>
+
+        }
+
+    </table>
+</div>
+

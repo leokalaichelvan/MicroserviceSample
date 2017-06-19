@@ -1,0 +1,16 @@
+D:\Development_Avecto\GTO\MicroserviceSample\MicroserviceSample\MicroserviceUI\bin\Debug\netcoreapp1.1\MicroserviceUI.deps.json
+D:\Development_Avecto\GTO\MicroserviceSample\MicroserviceSample\MicroserviceUI\bin\Debug\netcoreapp1.1\MicroserviceUI.runtimeconfig.json
+D:\Development_Avecto\GTO\MicroserviceSample\MicroserviceSample\MicroserviceUI\bin\Debug\netcoreapp1.1\MicroserviceUI.runtimeconfig.dev.json
+D:\Development_Avecto\GTO\MicroserviceSample\MicroserviceSample\MicroserviceUI\bin\Debug\netcoreapp1.1\MicroserviceUI.dll
+D:\Development_Avecto\GTO\MicroserviceSample\MicroserviceSample\MicroserviceUI\obj\Debug\netcoreapp1.1\MicroserviceUI.AssemblyInfo.cs
+D:\Development_Avecto\GTO\MicroserviceSample\MicroserviceSample\MicroserviceUI\bin\Debug\netcoreapp1.1\MicroserviceUI.pdb
+D:\Development_Avecto\GTO\MicroserviceSample\MicroserviceSample\MicroserviceUI\obj\Debug\netcoreapp1.1\MicroserviceUI.dll
+D:\Development_Avecto\GTO\MicroserviceSample\MicroserviceSample\MicroserviceUI\obj\Debug\netcoreapp1.1\MicroserviceUI.pdb
+C:\GTO\MicroserviceSample\MicroserviceSample\MicroserviceUI\bin\Debug\netcoreapp1.1\MicroserviceUI.deps.json
+C:\GTO\MicroserviceSample\MicroserviceSample\MicroserviceUI\bin\Debug\netcoreapp1.1\MicroserviceUI.runtimeconfig.json
+C:\GTO\MicroserviceSample\MicroserviceSample\MicroserviceUI\bin\Debug\netcoreapp1.1\MicroserviceUI.runtimeconfig.dev.json
+C:\GTO\MicroserviceSample\MicroserviceSample\MicroserviceUI\bin\Debug\netcoreapp1.1\MicroserviceUI.dll
+C:\GTO\MicroserviceSample\MicroserviceSample\MicroserviceUI\bin\Debug\netcoreapp1.1\MicroserviceUI.pdb
+C:\GTO\MicroserviceSample\MicroserviceSample\MicroserviceUI\obj\Debug\netcoreapp1.1\MicroserviceUI.AssemblyInfo.cs
+C:\GTO\MicroserviceSample\MicroserviceSample\MicroserviceUI\obj\Debug\netcoreapp1.1\MicroserviceUI.dll
+C:\GTO\MicroserviceSample\MicroserviceSample\MicroserviceUI\obj\Debug\netcoreapp1.1\MicroserviceUI.pdb

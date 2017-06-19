@@ -1,0 +1,43 @@
+@model IEnumerable<MicroserviceUI.Models.Customer>
+
+@{
+    ViewData["Title"] = "Customer";
+}
+
+<h2>Product</h2>
+
+
+
+<div>
+    <h4>Customers</h4>
+    <hr />
+    <table width="100%">
+        <thead>
+            <tr>
+                <th>
+                    Customer ID
+                </th>
+                <th>
+                    Customer Name
+                </th>
+                
+            </tr>
+        </thead>
+
+        @foreach (var customer in Model)
+        {
+            <tr>
+                <td>
+                    @customer.ID.ToString()
+                </td>
+                <td>
+                    @customer.Name
+                </td>
+              
+            </tr>
+
+        }
+
+    </table>
+</div>
+

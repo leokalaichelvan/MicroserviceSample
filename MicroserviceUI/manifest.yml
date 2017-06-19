@@ -1,0 +1,10 @@
+---
+applications:
+- name: microserviceui
+  memory: 512M
+  host: gtomicroserviceui
+  env:
+    ASPNETCORE_ENVIRONMENT: Development
+  services:
+   - customerConfig
+   - customerRegistry
